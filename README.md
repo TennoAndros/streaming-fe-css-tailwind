@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# A small front end project using React, Tailwind 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
