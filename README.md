@@ -1,5 +1,5 @@
 # A small front end project using React, Tailwind 
-
+Here you can find a hosted version: https://tennotv.netlify.app/
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
